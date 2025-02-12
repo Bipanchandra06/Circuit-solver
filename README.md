@@ -6,12 +6,12 @@ This project is a **Graphical User Interface (GUI)-based circuit solver** that a
 ---
 
 ## **Features**  
-✅ **Graphical Circuit Design** – Add resistors, capacitors, inductors, switches, and voltage sources dynamically.  
-✅ **Real-Time Circuit Visualization** – Uses **NetworkX & Matplotlib** to display the circuit structure.  
-✅ **Laplace Transform-based Analysis** – Solves AC/DC circuits, modeling capacitors and inductors with initial conditions.  
-✅ **Multiple Voltage Source Types** – Supports **sinusoidal, cosine, and DC voltage inputs** for dynamic circuit simulation.  
-✅ **Symbolic Computation with SymPy** – Uses **symbolic mathematics** to solve for node voltages efficiently.  
-✅ **Interactive GUI with Tkinter** – User-friendly interface for component addition and circuit solving.  
+**Graphical Circuit Design** – Add resistors, capacitors, inductors, switches, and voltage sources dynamically.  
+**Real-Time Circuit Visualization** – Uses    **NetworkX & Matplotlib** to display the circuit structure.  
+ **Laplace Transform-based Analysis** – Solves AC/DC circuits, modeling capacitors and inductors with initial conditions.  
+ **Multiple Voltage Source Types** – Supports **sinusoidal, cosine, and DC voltage inputs** for dynamic circuit simulation.  
+ **Symbolic Computation with SymPy** – Uses **symbolic mathematics** to solve for node voltages efficiently.  
+ **Interactive GUI with Tkinter** – User-friendly interface for component addition and circuit solving.  
 
 ---
 
@@ -69,10 +69,10 @@ The program will compute and display **time-domain voltage responses** for each 
 ---
 
 ## **Future Enhancements**  
-📌 Add **support for current sources** in circuit analysis.  
-📌 Implement **transient analysis** using numerical methods.  
-📌 Improve **UI/UX with drag-and-drop circuit elements**.  
-📌 Enable **exporting circuit diagrams as images**.  
+ Add **support for current sources** in circuit analysis.  
+ Implement **transient analysis** using numerical methods.  
+ Improve **UI/UX with drag-and-drop circuit elements**.  
+ Enable **exporting circuit diagrams as images**.  
 
 ---
 
