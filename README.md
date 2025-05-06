@@ -1,9 +1,9 @@
 # **General Circuit Solver with Real-Time Visualization**  
 ### **Team**
-Ponnekanti Bipan Chandra 
-Pasala Ekshith Sai Gunakar
-Pasham Pavan Sai reddy
-Rachamalla Prashant
+Ponnekanti Bipan Chandra.
+Pasala Ekshith Sai Gunakar.
+Pasham Pavan Sai reddy.
+Rachamalla Prashant.
 
 ---
 ### **Overview**  
